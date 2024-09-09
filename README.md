@@ -39,7 +39,7 @@ A deep learning-based solution for predicting potential diseases based on patien
 
 **Tech:** `Python` | `TensorFlow` | `Keras`  
 **Role:** Lead Developer  
-**Impact:** Achieved high accuracy in predicting diseases based on patient health indicators.
+**Impact:** Achieved high accuracy in predicting diseases based on patient facial features.
 
 ---
 
@@ -57,7 +57,7 @@ An Android application that recognizes handwritten digits using a Convolutional 
 **Description:**  
 A web-based system for tracking buses on campus in real-time, improving the transportation efficiency for students and staff.  
 
-**Tech:** `Java` | `Spring Boot` | `MySQL`  
+**Tech:** `Java` | `Flutter` | `MySQL`  
 **Role:** Full-Stack Developer  
 **Impact:** Successfully deployed and used to monitor the university's bus system.
 
@@ -66,7 +66,7 @@ A web-based system for tracking buses on campus in real-time, improving the tran
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Sivvala-blue)](https://www.linkedin.com/in/sivvalavinay/)  
-📧 **Email:** [vsivvala@binghamton.edu](mailto:vsivvala@binghamton.edu)
+📧 **Email:** [vinaysivvala@gmail.com](mailto:vinaysivvala@gmail.com)
 
 ---
 
