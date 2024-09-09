@@ -24,7 +24,7 @@ I'm passionate about **solving real-world problems** with code, exploring the cu
 `Python` | `Java` | `C++` | `C`
 
 **Frameworks & Tools:**  
-`PyTorch` | `TensorFlow` | `Keras` | `OpenCV` | `Spring Boot` | `Eclipse` | `Android Studio` | `Git`
+`PyTorch` | `TensorFlow` | `Keras` | `OpenCV` | `Eclipse` | `Android Studio` | `Git`
 
 **Core Competencies:**  
 `Data Structures & Algorithms` | `Machine Learning` | `Deep Learning` | `Software Development`
