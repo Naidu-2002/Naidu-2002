@@ -68,6 +68,3 @@ A web-based system for tracking buses on campus in real-time, improving the tran
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Sivvala-blue)](https://www.linkedin.com/in/sivvalavinay/)  
 📧 **Email:** [vinaysivvala@gmail.com](mailto:vinaysivvala@gmail.com)
 
----
-
-⭐️ **Thank you for visiting my profile!** Feel free to check out my repositories and drop me a message if you want to collaborate on something cool! 😊
