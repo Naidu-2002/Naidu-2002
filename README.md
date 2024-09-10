@@ -58,7 +58,7 @@ An Android application that recognizes handwritten digits using a Convolutional 
 A web-based system for tracking buses on campus in real-time, improving the transportation efficiency for students and staff.  
 
 **Tech:** `Java` | `Flutter` | `MySQL`  
-**Role:** Full-Stack Developer  
+**Role:** Mobile-App Developer  
 **Impact:** Successfully deployed and used to monitor the university's bus system.
 
 ---
