@@ -12,7 +12,7 @@
 I'm passionate about **solving real-world problems** with code, exploring the cutting edge of **machine learning** and **software engineering**, and contributing to meaningful projects. Whether it's building systems that predict outcomes or developing intuitive apps, I’m always up for the challenge!
 
 - 💡 **Currently Working On:**  
-  Developing a **Driver Drowsiness Detection System** using **computer vision** and **deep learning** models. The system analyzes facial landmarks and eye movements through a webcam feed to detect signs of drowsiness and alert the driver in real-time.  
+Building a **chatbot** powered by **open-source large language models (LLMs)** to develop an advanced and highly customizable conversational AI system. The project focuses on enhancing the chatbot's ability to understand context, generate human-like responses, and integrate seamlessly with various applications for a wide range of use cases.  
 - 🧠 **Learning Next:** Advanced Computer Vision techniques, Model Optimization, and Real-Time Processing strategies.  
 - 🤓 **Fun Fact:** I hold a **6-star rating** on **HackerRank** and have solved **250+** problems on **CodeChef** and **Codeforces**!  
 
