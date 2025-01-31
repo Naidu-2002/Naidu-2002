@@ -3,7 +3,7 @@
 🎓 **Master's in Computer Science**  
 📍 **Binghamton University**  
 🎯 **Graduating:** May 2025  
-📈 **GPA:** 3.85 / 4.00
+📈 **GPA:** 3.80 / 4.00
 
 ---
 
