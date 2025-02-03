@@ -23,6 +23,9 @@ Building a **chatbot** powered by **open-source large language models (LLMs)** t
 **Languages:**  
 `Python` | `Java` | `C++` | `C`
 
+**Database:**  
+`MySQL`
+
 **Frameworks & Tools:**  
 `PyTorch` | `TensorFlow` | `Keras` | `OpenCV` | `Eclipse` | `Android Studio` | `Git`
 
