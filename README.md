@@ -40,7 +40,7 @@ Building a **chatbot** powered by **open-source large language models (LLMs)** t
 **Description:**  
 A deep learning-based solution for predicting potential diseases based on patient data, aimed at assisting in early diagnosis.  
 
-**Tech:** `Python` | `TensorFlow` | `Keras`  
+**Tech:** `Python` | `TensorFlow` | `Keras`  | `Scikit-learn` 
 **Role:** Lead Developer  
 **Impact:** Achieved high accuracy in predicting diseases based on patient facial features.
 
