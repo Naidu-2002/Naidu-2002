@@ -51,7 +51,7 @@ A deep learning-based solution for predicting potential diseases based on patien
 An Android application that recognizes handwritten digits using a Convolutional Neural Network (CNN).  
 
 **Tech:** `Java` | `Android Studio` | `TensorFlow`  
-**Role:** Backend Developer  
+**Role:** Backend Developer & Team Lead 
 **Impact:** Delivered real-time, high-accuracy digit recognition.
 
 ---
