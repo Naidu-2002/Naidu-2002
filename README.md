@@ -30,7 +30,7 @@ Building a **chatbot** powered by **open-source large language models (LLMs)** t
 `PyTorch` | `TensorFlow` | `Keras` | `OpenCV` | `Eclipse` | `Android Studio` | `Git`
 
 **Core Competencies:**  
-`Data Structures & Algorithms` | `Machine Learning` | `Deep Learning` | `Software Development`
+`Data Structures & Algorithms` | `Machine Learning` | `Deep Learning` | `Artificial Intelligence` | `Software Development`
 
 ---
 
