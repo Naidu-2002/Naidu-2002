@@ -30,7 +30,7 @@ Building a **chatbot** powered by **open-source large language models (LLMs)** t
 `PyTorch` | `TensorFlow` | `Keras` | `OpenCV` | `Eclipse` | `Android Studio` | `Git`
 
 **Core Competencies:**  
-`Data Structures & Algorithms` | `Machine Learning` | `Deep Learning` | `Artificial Intelligence` | `Programming Languages` | `Software Development` | `Design Patterns`
+`Data Structures & Algorithms` | `Machine Learning` | `Deep Learning` | `Artificial Intelligence` | `Programming Languages` | `Software Development` | `Design Patterns` 
 
 ---
 
@@ -65,6 +65,14 @@ A web-based system for tracking buses on campus in real-time, improving the tran
 **Impact:** Successfully deployed and used to monitor the university's bus system.
 
 ---
+
+### 🗣️ Speech-to-Emotion Recognition  
+**Description:**  
+A deep learning-based system that analyzes speech patterns to detect and classify emotions, improving human-computer interaction.  
+
+**Tech:** `Python` | `TensorFlow` | `Librosa`  
+**Role:** Machine Learning Developer  
+**Impact:** Enhanced emotion recognition for conversational AI and mental health applications.
 
 ## 🌐 Connect With Me
 
